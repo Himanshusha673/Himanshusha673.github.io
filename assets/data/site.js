@@ -25,5 +25,5 @@ export const METRICS = [
   ['10+', 'Apps deployed to App Store / Google Play'],
   ['30K+', 'Downloads across documented production work at Binarychai'],
   ['4.5+', 'Average rating across that same documented work'],
-   ['10+', 'Different categories of applications delivered']
+   ['10+', 'Different categories of applications delivered, including e-commerce, social media, and productivity tools'],
 ];
